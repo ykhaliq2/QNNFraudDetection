@@ -3,4 +3,4 @@ This repo contains the code and artifacts for a hybrid quantum classical experim
 
 The kaggle credit card fraud transactions dataset can be found here: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-Be sure to pip install the necessary packages: numpy, pandas, scikit-learn, pennylane, tqdm, pytorch, torchinfo
+Be sure to pip install the necessary packages: numpy, pandas, scikit-learn, pennylane, tqdm, torch, torchinfo
